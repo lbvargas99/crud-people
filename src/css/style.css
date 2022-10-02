@@ -1,0 +1,17 @@
+body {
+    background-image: radial-gradient(circle at 50% -20.71%, #d1d5d5 0, #d1d5d5 4.17%, #d1d5d6 8.33%, #d1d5d6 12.5%, #d1d5d6 16.67%, #d1d5d7 20.83%, #d2d5d7 25%, #d2d5d7 29.17%, #d2d5d7 33.33%, #d3d4d7 37.5%, #d3d4d7 41.67%, #d4d4d7 45.83%, #d4d4d7 50%, #d4d4d7 54.17%, #d5d4d7 58.33%, #d5d4d6 62.5%, #d6d4d6 66.67%, #d6d3d6 70.83%, #d7d3d5 75%, #d7d3d5 79.17%, #d7d3d5 83.33%, #d7d3d4 87.5%, #d8d3d4 91.67%, #d8d3d3 95.83%, #d8d3d3 100%);
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 600;
+}
+
+h3 {
+    text-align: center;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) > *, .table-bordered > :not(caption) > * > * {
+    text-align: center;
+}
